@@ -5,7 +5,7 @@ Team members
 1. Aditya Kumar
 2. Evrard
 3. Amit
-4. Jires
+4. Jires Donfack Voufo
 
 Team members: 01.05.22
 Concept draft document 17.05.22
