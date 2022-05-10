@@ -11,3 +11,10 @@ Team members: 01.05.22
 Concept draft document 17.05.22
 Final Documentation 24.06.22
 Final presentation starting 29.06.22
+
+
+IOT project idea
+1. Smart forest fire dectection system
+2. smart irrigation system
+3. smart green house control
+4. 
