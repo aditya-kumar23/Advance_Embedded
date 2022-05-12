@@ -18,3 +18,5 @@ IOT project idea
 2. smart irrigation system
 3. smart green house control
 4. 
+
+meeting link : https://meet.google.com/wjt-dwvf-ggi
