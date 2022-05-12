@@ -14,9 +14,4 @@ Final presentation starting 29.06.22
 
 
 IOT project idea
-1. Smart forest fire dectection system
-2. smart irrigation system
-3. smart green house control
-4. 
-
-meeting link : https://meet.google.com/wjt-dwvf-ggi
+Smart green house control
