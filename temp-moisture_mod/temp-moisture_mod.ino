@@ -99,19 +99,17 @@ void loop() {
             if (isnan(event.temperature)) {
               client.println(F("Error reading temperature!"));
               }
+            else if (isnan(event.relative_humidity)) {
+              client.println(F("Error reading humidity!"));
+              } 
             else {
               client.print(F("Temperature: "));
               client.print(event.temperature);
               client.println(F("°C"));
-              break;
-              } 
-            if (isnan(event.relative_humidity)) {
-              client.println(F("Error reading humidity!"));
-              }
-            else {
               client.print(F("Humidity: "));
-              client.print(event.relative_humidity);
+              client.print(event.humidity);
               client.println(F("%"));
+              break;
               }
           }else {
             currentLine = "";
