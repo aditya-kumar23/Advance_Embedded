@@ -177,7 +177,7 @@ else{  digitalWrite(redPin,LOW);
     int Rvalue4 = state;
    int Rvalue5 = state;
 
-  
+  //print output to serial monitor
 
      Serial.print("Light State: ");
     Serial.println();
