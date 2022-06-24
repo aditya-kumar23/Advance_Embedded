@@ -3,7 +3,7 @@
 char ssid[] = "AndroidAPe6c5";        // your network SSID (name)
 char pass[] = "pzds9457";    // your network password (use for WPA, or use as key for WEP)
 int keyIndex = 0;                // your network key Index number (needed only for WEP)
-
+//define sensors
 int led =  LED_BUILTIN;
 //int servo =  pin2;
 int status = WL_IDLE_STATUS;
