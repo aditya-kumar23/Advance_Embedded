@@ -164,7 +164,7 @@ void loop() {
     int Rvalue = val;
     int Rvalue2 = humidity;
     int Rvalue3 = tempC;
-
+//Print output to serial monitor
     Serial.print("Water leve: ");
     Serial.println();
     Serial.println(Rvalue);
